@@ -1,0 +1,7 @@
+0.000000	1.576250	car engine start
+5.863649	7.629049	accelerating
+8.385649	18.725848	accelerating
+19.923798	32.785997	accelerating
+35.055797	42.747896	accelerating
+45.395996	48.737646	accelerating
+50.818296	54.033845	accelerating
