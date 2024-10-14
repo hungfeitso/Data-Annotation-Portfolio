@@ -1,0 +1,38 @@
+<annotation>
+	<folder>val2017</folder>
+	<filename>000000002587.jpg</filename>
+	<path>C:\Users\hungb\OneDrive\Área de Trabalho\Continuous Learning (High income skills)\Data Annotation\Datasets\val2017\000000002587.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Donut</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>14</ymin>
+			<xmax>404</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>33</ymin>
+			<xmax>448</xmax>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+</annotation>
